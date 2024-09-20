@@ -9,7 +9,7 @@ The URL Capture Tool is designed to capture URLs from open browser tabs, allowin
 
 ## How to Start the Program
 1. Ensure that Chrome and ChromeDriver are correctly set up on your machine.
-2. Run the `python main.py` script in your Python environment.
+2. Run the `./setup.sh` script in linux environment or `./setup.bat` in windows environment, else Run the `python main.py` script in your Python environment.
 3. The GUI will open, allowing you to start capturing URLs, set optional configurations, and manage captured URLs.
 
 ## Use Cases
