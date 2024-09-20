@@ -1,4 +1,4 @@
-# # URL Capture Tool v2.1
+# URL Capture Tool v2.1
 
 ## Overview
 The URL Capture Tool is designed to capture URLs from open browser tabs, allowing for optional modifications such as URL replacement, adding extensions, and downloading files from captured URLs. This tool is particularly useful for users needing to collect URLs for specific purposes, such as fetching GIFs or images from various sources.
